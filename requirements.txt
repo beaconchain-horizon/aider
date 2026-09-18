@@ -21,7 +21,7 @@ annotated-types==0.7.0
     # via
     #   -c requirements/common-constraints.txt
     #   pydantic
-anyio==4.12.1
+anyio==4.14.2
     # via
     #   -c requirements/common-constraints.txt
     #   httpx
